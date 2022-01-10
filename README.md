@@ -6,8 +6,8 @@ The program uses a simple type of DDoS attack "HTTP flood" using multithreading 
 Программа использует простой тип DDoS-атаки "HTTP flood" с использованием многопоточности и ботов (прокси-серверов). Программа была создана в информационных целях!<br>
 
 # For Windows
-Просто скачать и заупстить EXE:<br>
-https://fsystem88.ru/programs/DDOS.exe
+Просто скачать и запустить EXE (P.S. Первый раз открываете от админа, потом по обычному):<br>
+https://anonfiles.com/F3bfZ252x2/DDoS_exe
 
 # Обновить
 <code>cd ~/dos-attack/ && git pull</code>
