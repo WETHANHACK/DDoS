@@ -7,7 +7,7 @@ The program uses a simple type of DDoS attack "HTTP flood" using multithreading 
 
 # For Windows
 Просто скачать и запустить EXE (P.S. Первый раз открываете от админа, потом по обычному):<br>
-https://anonfiles.com/F3bfZ252x2/DDoS_exe
+https://anonfiles.com/zbE2m96axf/DDoS_exe
 
 # Обновить
 <code>cd ~/dos-attack/ && git pull</code>
